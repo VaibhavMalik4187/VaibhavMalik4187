@@ -1,4 +1,4 @@
-![Hello Everyone](https://raw.githubusercontent.com/VaibhavMalik4187/ImagesForMarkdown/main/Hey%2C%20I'm%20Vaibhav%20Malik.gif?token=AIKAMLGIG42PLBY2RI72Y43BL5QIE)
+[![Hey-I-m-Vaibhav-Malik.gif](https://i.postimg.cc/Cxrd7WKC/Hey-I-m-Vaibhav-Malik.gif)](https://postimg.cc/NKTgfCmL)
 
 ## 👦 About Me
 
