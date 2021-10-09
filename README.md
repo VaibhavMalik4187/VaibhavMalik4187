@@ -39,7 +39,7 @@
 
 <br />
 
-## 💬 Ask me about Data Structures and Algorithms,and Competitive Programming
+## 💬 Ask me about
 
 - Data Structures and Algorithms (DSA)
 - Competitive Programming
