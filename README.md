@@ -1,12 +1,16 @@
 [![Hey-I-m-Vaibhav-Malik.gif](https://i.postimg.cc/Cxrd7WKC/Hey-I-m-Vaibhav-Malik.gif)](https://postimg.cc/NKTgfCmL)
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-VaibhavMalik4187&label=Profile+Views)
+
+<br />
+
 ## 👦 About Me
 
 ### I am an electrical engineering student at NSUT and a coder who loves to think solutions out of thin air. I enjoy contributing to Open-Source. I also have a knack for competitive coding and DevOps.
 
 <br />
 
-- Fun Fact : I am in love with Football.
+- Fun Fact : I am in love with Football
 
 <br />
 
@@ -39,7 +43,7 @@
 
 <br />
 
-## 💬 Ask me about
+## 💬 Ask me about Data Structures and Algorithms,and Competitive Programming
 
 - Data Structures and Algorithms (DSA)
 - Competitive Programming
@@ -48,12 +52,12 @@
 
 <br />
 
-## 😃 Connect with me:
+## 😃 Connect with me
 
 - [GitHub](https://github.com/VaibhavMalik4187)
 - [LinkedIn](https://www.linkedin.com/in/)
 - [CodeChef](https://www.codechef.com/users/malik_4546)
-- [DockerHub](https://hub.docker.com/u/vaibhavmalik4187) 
+- [DockerHub](https://hub.docker.com/u/vaibhavmalik4187)
 
 <br />
 
@@ -76,6 +80,14 @@
 
 <br />
 
+## My GitHub Stats
+
+<br />
+
 ![Vaibhav Malik's stats](https://github-readme-stats.vercel.app/api?username=VaibhavMalik4187&show_icons=true&theme=radical)
+
+<br />
+
+[![Vaibhav Malik's github activity graph](https://activity-graph.herokuapp.com/graph?username=VaibhavMalik4187&theme=rogue)](https://github.com/VaibhavMalik4187/github-readme-activity-graph)
 
 <br />
